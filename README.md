@@ -31,18 +31,9 @@ Kod yazmadığım zamanlarda blog yazarım, konuşurum, senaryo yazarım.
 <p align="center">
   <a href="https://github.com/SlipBey"><img src="https://img.shields.io/badge/GitHub-1d202b?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/SlipBey"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.slipyme.com/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://youtube.com/@slipbeyyoutube"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:contact@slipyme.com"><img src="https://img.shields.io/badge/E--Mail-1d202b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://slip.slipyme.com"><img src="https://img.shields.io/badge/Portfolyom%20-1d202b.svg?&style=for-the-badge" /></a>
-</p>
-
----
-
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlipBey&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biftech&layout=compact&theme=radical&langs_count=10" />
+  <a href="https://discord.com/user/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:biftechzone@gmail.com"><img src="https://img.shields.io/badge/E--Mail-1d202b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://biftech.ct.ws"><img src="https://img.shields.io/badge/Portfolyom%20-1d202b.svg?&style=for-the-badge" /></a>
 </p>
 
 ---
