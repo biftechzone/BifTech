@@ -17,6 +17,3 @@
 
 ---
 
-> "Kodu yazmak kolay,  
-> önemli olan sistemi kurmak."  
-> — *SlipBey*
